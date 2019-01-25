@@ -1,0 +1,101 @@
+Rank,Pair,Annotation,Score
+1,D01276,Atazanavir sulfate (JAN/USAN),0.827
+  ,hsa7363, UDP glucuronosyltransferase family 2 member B4,  
+2,D01276,Atazanavir sulfate (JAN/USAN),0.825
+  ,hsa7365, UDP glucuronosyltransferase family 2 member B10,  
+3,D01276,Atazanavir sulfate (JAN/USAN),0.822
+  ,hsa10720, UDP glucuronosyltransferase family 2 member B11,  
+4,D01276,Atazanavir sulfate (JAN/USAN),0.82
+  ,hsa7367, UDP glucuronosyltransferase family 2 member B17,  
+5,D01276,Atazanavir sulfate (JAN/USAN),0.82
+  ,hsa7364, UDP glucuronosyltransferase family 2 member B7,  
+6,D01276,Atazanavir sulfate (JAN/USAN),0.815
+  ,hsa54600, UDP glucuronosyltransferase family 1 member A9,  
+7,D01276,Atazanavir sulfate (JAN/USAN),0.814
+  ,hsa54576, UDP glucuronosyltransferase family 1 member A8,  
+8,D01276,Atazanavir sulfate (JAN/USAN),0.812
+  ,hsa7366, UDP glucuronosyltransferase family 2 member B15,  
+9,D01276,Atazanavir sulfate (JAN/USAN),0.808
+  ,hsa54577, UDP glucuronosyltransferase family 1 member A7,  
+10,D01276,Atazanavir sulfate (JAN/USAN),0.805
+  ,hsa54575, UDP glucuronosyltransferase family 1 member A10,  
+11,D00160,Aminocaproic acid (USP/INN),0.801
+  ,hsa63036, chymotrypsin like elastase family member 2A,  
+12,D01276,Atazanavir sulfate (JAN/USAN),0.8
+  ,hsa54659, UDP glucuronosyltransferase family 1 member A3,  
+13,D01276,Atazanavir sulfate (JAN/USAN),0.791
+  ,hsa54490, UDP glucuronosyltransferase family 2 member B28,  
+14,D01276,Atazanavir sulfate (JAN/USAN),0.781
+  ,hsa54579, UDP glucuronosyltransferase family 1 member A5,  
+15,D01441,Imatinib mesylate (USAN),0.78
+  ,hsa2047, EPH receptor B1,  
+16,D01441,Imatinib mesylate (USAN),0.778
+  ,hsa3055," HCK proto-oncogene, Src family tyrosine kinase",  
+17,D01441,Imatinib mesylate (USAN),0.775
+  ,hsa2534," FYN proto-oncogene, Src family tyrosine kinase",  
+18,D01276,Atazanavir sulfate (JAN/USAN),0.773
+  ,hsa54657, UDP glucuronosyltransferase family 1 member A4,  
+19,D00160,Aminocaproic acid (USP/INN),0.769
+  ,hsa5646, serine protease 3,  
+20,D01441,Imatinib mesylate (USAN),0.769
+  ,hsa2042, EPH receptor A3,  
+21,D01441,Imatinib mesylate (USAN),0.767
+  ,hsa2043, EPH receptor A4,  
+22,D01441,Imatinib mesylate (USAN),0.767
+  ,hsa6714," SRC proto-oncogene, non-receptor tyrosine kinase",  
+23,D01276,Atazanavir sulfate (JAN/USAN),0.765
+  ,hsa54658, UDP glucuronosyltransferase family 1 member A1,  
+24,D01441,Imatinib mesylate (USAN),0.765
+  ,hsa7525," YES proto-oncogene 1, Src family tyrosine kinase",  
+25,D01441,Imatinib mesylate (USAN),0.764
+  ,hsa2263, fibroblast growth factor receptor 2,  
+26,D00160,Aminocaproic acid (USP/INN),0.762
+  ,hsa5645, serine protease 2,  
+27,D01441,Imatinib mesylate (USAN),0.755
+  ,hsa1969, EPH receptor A2,  
+28,D01441,Imatinib mesylate (USAN),0.754
+  ,hsa2044, EPH receptor A5,  
+29,D01441,Imatinib mesylate (USAN),0.754
+  ,hsa2261, fibroblast growth factor receptor 3,  
+30,D00139,Methoxsalen (JP17/USP),0.752
+  ,hsa1576, cytochrome P450 family 3 subfamily A member 4,  
+31,D01441,Imatinib mesylate (USAN),0.75
+  ,hsa2041, EPH receptor A1,  
+32,D01441,Imatinib mesylate (USAN),0.749
+  ,hsa2050, EPH receptor B4,  
+33,D01441,Imatinib mesylate (USAN),0.747
+  ,hsa3932," LCK proto-oncogene, Src family tyrosine kinase",  
+34,D01441,Imatinib mesylate (USAN),0.746
+  ,hsa4067," LYN proto-oncogene, Src family tyrosine kinase",  
+35,D01441,Imatinib mesylate (USAN),0.743
+  ,hsa2264, fibroblast growth factor receptor 4,  
+36,D01276,Atazanavir sulfate (JAN/USAN),0.743
+  ,hsa54578, UDP glucuronosyltransferase family 1 member A6,  
+37,D01441,Imatinib mesylate (USAN),0.738
+  ,hsa4914, neurotrophic receptor tyrosine kinase 1,  
+38,D00340,Hydrochlorothiazide (JP17/USP/INN),0.734
+  ,hsa760, carbonic anhydrase 2,  
+39,D01441,Imatinib mesylate (USAN),0.732
+  ,hsa2048, EPH receptor B2,  
+40,D01441,Imatinib mesylate (USAN),0.726
+  ,hsa10461," MER proto-oncogene, tyrosine kinase",  
+41,D01441,Imatinib mesylate (USAN),0.719
+  ,hsa7294, TXK tyrosine kinase,  
+42,D00160,Aminocaproic acid (USP/INN),0.718
+  ,hsa64499, tryptase beta 2 (gene/pseudogene,  
+43,D01441,Imatinib mesylate (USAN),0.718
+  ,hsa2049, EPH receptor B3,  
+44,D01441,Imatinib mesylate (USAN),0.714
+  ,hsa2045, EPH receptor A7,  
+45,D01441,Imatinib mesylate (USAN),0.713
+  ,hsa4058, leukocyte receptor tyrosine kinase,  
+46,D00160,Aminocaproic acid (USP/INN),0.713
+  ,hsa11202, kallikrein related peptidase 8,  
+47,D01276,Atazanavir sulfate (JAN/USAN),0.712
+  ,hsa10941, UDP glucuronosyltransferase family 2 member A1 complex locus,  
+48,D01441,Imatinib mesylate (USAN),0.712
+  ,hsa4920, receptor tyrosine kinase like orphan receptor 2,  
+49,D00160,Aminocaproic acid (USP/INN),0.712
+  ,hsa23436, chymotrypsin like elastase family member 3B,  
+50,D00518,Dichlorphenamide (USP),0.711
+  ,hsa760, carbonic anhydrase 2,  

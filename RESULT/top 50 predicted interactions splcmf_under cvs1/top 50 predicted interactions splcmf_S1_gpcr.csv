@@ -1,0 +1,101 @@
+Rank,Pair,Annotation,Score
+1,D02149,Epinephrine bitartrate (JAN/USP),0.847
+  ,hsa151, adrenoceptor alpha 2B,  
+2,D02149,Epinephrine bitartrate (JAN/USP),0.778
+  ,hsa146, adrenoceptor alpha 1D,  
+3,D00454,Olanzapine (JAN/USAN/INN),0.777
+  ,hsa147, adrenoceptor alpha 1B,  
+4,D00609,Prazosin hydrochloride (JP17/USP),0.775
+  ,hsa151, adrenoceptor alpha 2B,  
+5,D00996,Epinephrine hydrochloride (JAN),0.77
+  ,hsa148, adrenoceptor alpha 1A,  
+6,D01603,Bethanidine sulfate (JAN/USAN),0.76
+  ,hsa146, adrenoceptor alpha 1D,  
+7,D00513,Pindolol (JP17/USP/INN),0.74
+  ,hsa147, adrenoceptor alpha 1B,  
+8,D02237,Guanethidine sulfate (USAN),0.738
+  ,hsa146, adrenoceptor alpha 1D,  
+9,D01603,Bethanidine sulfate (JAN/USAN),0.736
+  ,hsa147, adrenoceptor alpha 1B,  
+10,D00451,Sumatriptan (JAN/USP/INN),0.734
+  ,hsa3351, 5-hydroxytryptamine receptor 1B,  
+11,D02150,l-Isoprenaline hydrochloride (JP17),0.733
+  ,hsa154, adrenoceptor beta 2,  
+12,D00255,Carvedilol (JAN/USAN/INN),0.732
+  ,hsa147, adrenoceptor alpha 1B,  
+13,D00451,Sumatriptan (JAN/USP/INN),0.732
+  ,hsa3352, 5-hydroxytryptamine receptor 1D,  
+14,D00996,Epinephrine hydrochloride (JAN),0.723
+  ,hsa151, adrenoceptor alpha 2B,  
+15,D00996,Epinephrine hydrochloride (JAN),0.723
+  ,hsa146, adrenoceptor alpha 1D,  
+16,D00509,Phentolamine mesylate (USP),0.718
+  ,hsa146, adrenoceptor alpha 1D,  
+17,D00996,Epinephrine hydrochloride (JAN),0.715
+  ,hsa147, adrenoceptor alpha 1B,  
+18,D02149,Epinephrine bitartrate (JAN/USP),0.712
+  ,hsa150, adrenoceptor alpha 2A,  
+19,D00281,Clonidine (JAN/USP/INN),0.702
+  ,hsa150, adrenoceptor alpha 2A,  
+20,D00513,Pindolol (JP17/USP/INN),0.701
+  ,hsa153, adrenoceptor beta 1,  
+21,D02149,Epinephrine bitartrate (JAN/USP),0.699
+  ,hsa147, adrenoceptor alpha 1B,  
+22,D01022,Oxymetazoline hydrochloride (JAN/USP),0.692
+  ,hsa151, adrenoceptor alpha 2B,  
+23,D00513,Pindolol (JP17/USP/INN),0.688
+  ,hsa146, adrenoceptor alpha 1D,  
+24,D01390,Isoproterenol hydrochloride (USP),0.686
+  ,hsa154, adrenoceptor beta 2,  
+25,D00509,Phentolamine mesylate (USP),0.685
+  ,hsa151, adrenoceptor alpha 2B,  
+26,D00509,Phentolamine mesylate (USP),0.682
+  ,hsa147, adrenoceptor alpha 1B,  
+27,D00509,Phentolamine mesylate (USP),0.681
+  ,hsa150, adrenoceptor alpha 2A,  
+28,D00281,Clonidine (JAN/USP/INN),0.68
+  ,hsa146, adrenoceptor alpha 1D,  
+29,D00451,Sumatriptan (JAN/USP/INN),0.677
+  ,hsa3355, 5-hydroxytryptamine receptor 1F,  
+30,D00607,Guanadrel sulfate (USP),0.676
+  ,hsa147, adrenoceptor alpha 1B,  
+31,D00437,Nifedipine (JP17/USP/INN),0.673
+  ,hsa147, adrenoceptor alpha 1B,  
+32,D01022,Oxymetazoline hydrochloride (JAN/USP),0.669
+  ,hsa146, adrenoceptor alpha 1D,  
+33,D00454,Olanzapine (JAN/USAN/INN),0.667
+  ,hsa146, adrenoceptor alpha 1D,  
+34,D00454,Olanzapine (JAN/USAN/INN),0.667
+  ,hsa148, adrenoceptor alpha 1A,  
+35,D00437,Nifedipine (JP17/USP/INN),0.658
+  ,hsa146, adrenoceptor alpha 1D,  
+36,D01022,Oxymetazoline hydrochloride (JAN/USP),0.658
+  ,hsa147, adrenoceptor alpha 1B,  
+37,D00607,Guanadrel sulfate (USP),0.655
+  ,hsa146, adrenoceptor alpha 1D,  
+38,D00283,Clozapine (JAN/USP/INN),0.653
+  ,hsa3356, 5-hydroxytryptamine receptor 2A,  
+39,D00454,Olanzapine (JAN/USAN/INN),0.652
+  ,hsa151, adrenoceptor alpha 2B,  
+40,D01603,Bethanidine sulfate (JAN/USAN),0.651
+  ,hsa151, adrenoceptor alpha 2B,  
+41,D00996,Epinephrine hydrochloride (JAN),0.649
+  ,hsa150, adrenoceptor alpha 2A,  
+42,D00513,Pindolol (JP17/USP/INN),0.647
+  ,hsa154, adrenoceptor beta 2,  
+43,D00283,Clozapine (JAN/USP/INN),0.646
+  ,hsa146, adrenoceptor alpha 1D,  
+44,D02237,Guanethidine sulfate (USAN),0.646
+  ,hsa147, adrenoceptor alpha 1B,  
+45,D00283,Clozapine (JAN/USP/INN),0.644
+  ,hsa147, adrenoceptor alpha 1B,  
+46,D00775,Riluzole (JAN/USAN/INN),0.643
+  ,hsa2918, glutamate metabotropic receptor 8,  
+47,D00426,Risperidone (JP17/USAN/INN),0.641
+  ,hsa146, adrenoceptor alpha 1D,  
+48,D02338,Acebutolol (USAN/INN),0.641
+  ,hsa153, adrenoceptor beta 1,  
+49,D00454,Olanzapine (JAN/USAN/INN),0.64
+  ,hsa1812, dopamine receptor D1,  
+50,D01713,Epinastine hydrochloride (JAN),0.635
+  ,hsa146, adrenoceptor alpha 1D,  

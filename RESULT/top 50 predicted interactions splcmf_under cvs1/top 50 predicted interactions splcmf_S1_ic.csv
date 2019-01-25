@@ -1,0 +1,101 @@
+Rank,Pair,Annotation,Score
+1,D02356,Verapamil (USAN/INN),1.085
+  ,hsa6329, sodium voltage-gated channel alpha subunit 4,  
+2,D02356,Verapamil (USAN/INN),1.032
+  ,hsa59284, calcium voltage-gated channel auxiliary subunit gamma 7,  
+3,D00332,Gabapentin (JAN/USAN/INN),1.018
+  ,hsa5310," polycystin 1, transient receptor potential channel interacting",  
+4,D00629,Nitrendipine (JP17/USAN/INN),1.005
+  ,hsa776, calcium voltage-gated channel subunit alpha1 D,  
+5,D00512,Phenytoin (JP17/USP/INN),0.998
+  ,hsa784, calcium voltage-gated channel auxiliary subunit beta 3,  
+6,D00332,Gabapentin (JAN/USAN/INN),0.988
+  ,hsa3710," inositol 1,4,5-trisphosphate receptor type 3",  
+7,D00618,Nisoldipine (JAN/USAN/INN),0.985
+  ,hsa776, calcium voltage-gated channel subunit alpha1 D,  
+8,D00437,Nifedipine (JP17/USP/INN),0.985
+  ,hsa778, calcium voltage-gated channel subunit alpha1 F,  
+9,D01295,Cinnarizine (JAN/USAN/INN),0.967
+  ,hsa3708," inositol 1,4,5-trisphosphate receptor type 1",  
+10,D00560,Pimozide (JP17/USP/INN),0.965
+  ,hsa55503, transient receptor potential cation channel subfamily V member 6,  
+11,D00512,Phenytoin (JP17/USP/INN),0.964
+  ,hsa59284, calcium voltage-gated channel auxiliary subunit gamma 7,  
+12,D02356,Verapamil (USAN/INN),0.963
+  ,hsa779, calcium voltage-gated channel subunit alpha1 S,  
+13,D00560,Pimozide (JP17/USP/INN),0.962
+  ,hsa785, calcium voltage-gated channel auxiliary subunit beta 4,  
+14,D00512,Phenytoin (JP17/USP/INN),0.956
+  ,hsa8989, transient receptor potential cation channel subfamily A member 1,  
+15,D00437,Nifedipine (JP17/USP/INN),0.956
+  ,hsa783, calcium voltage-gated channel auxiliary subunit beta 2,  
+16,D00560,Pimozide (JP17/USP/INN),0.952
+  ,hsa3710," inositol 1,4,5-trisphosphate receptor type 3",  
+17,D00549,Propofol (JAN/USAN/INN),0.951
+  ,hsa2555, gamma-aminobutyric acid type A receptor alpha2 subunit,  
+18,D01295,Cinnarizine (JAN/USAN/INN),0.949
+  ,hsa3710," inositol 1,4,5-trisphosphate receptor type 3",  
+19,D00512,Phenytoin (JP17/USP/INN),0.945
+  ,hsa10369, calcium voltage-gated channel auxiliary subunit gamma 2,  
+20,D00512,Phenytoin (JP17/USP/INN),0.941
+  ,hsa55503, transient receptor potential cation channel subfamily V member 6,  
+21,D01295,Cinnarizine (JAN/USAN/INN),0.941
+  ,hsa783, calcium voltage-gated channel auxiliary subunit beta 2,  
+22,D00512,Phenytoin (JP17/USP/INN),0.94
+  ,hsa55799, calcium voltage-gated channel auxiliary subunit alpha2delta 3,  
+23,D00512,Phenytoin (JP17/USP/INN),0.94
+  ,hsa27092, calcium voltage-gated channel auxiliary subunit gamma 4,  
+24,D01295,Cinnarizine (JAN/USAN/INN),0.94
+  ,hsa55503, transient receptor potential cation channel subfamily V member 6,  
+25,D00332,Gabapentin (JAN/USAN/INN),0.939
+  ,hsa55503, transient receptor potential cation channel subfamily V member 6,  
+26,D00560,Pimozide (JP17/USP/INN),0.939
+  ,hsa774, calcium voltage-gated channel subunit alpha1 B,  
+27,D00629,Nitrendipine (JP17/USAN/INN),0.937
+  ,hsa775, calcium voltage-gated channel subunit alpha1 C,  
+28,D00512,Phenytoin (JP17/USP/INN),0.936
+  ,hsa774, calcium voltage-gated channel subunit alpha1 B,  
+29,D00512,Phenytoin (JP17/USP/INN),0.933
+  ,hsa3708," inositol 1,4,5-trisphosphate receptor type 1",  
+30,D00332,Gabapentin (JAN/USAN/INN),0.933
+  ,hsa782, calcium voltage-gated channel auxiliary subunit beta 1,  
+31,D00512,Phenytoin (JP17/USP/INN),0.932
+  ,hsa785, calcium voltage-gated channel auxiliary subunit beta 4,  
+32,D00332,Gabapentin (JAN/USAN/INN),0.93
+  ,hsa59284, calcium voltage-gated channel auxiliary subunit gamma 7,  
+33,D00560,Pimozide (JP17/USP/INN),0.928
+  ,hsa8989, transient receptor potential cation channel subfamily A member 1,  
+34,D00293,Diazepam (JP17/USP/INN),0.927
+  ,hsa2554, gamma-aminobutyric acid type A receptor alpha1 subunit,  
+35,D00560,Pimozide (JP17/USP/INN),0.926
+  ,hsa3708," inositol 1,4,5-trisphosphate receptor type 1",  
+36,D00437,Nifedipine (JP17/USP/INN),0.924
+  ,hsa776, calcium voltage-gated channel subunit alpha1 D,  
+37,D01295,Cinnarizine (JAN/USAN/INN),0.924
+  ,hsa777, calcium voltage-gated channel subunit alpha1 E,  
+38,D00560,Pimozide (JP17/USP/INN),0.924
+  ,hsa5310," polycystin 1, transient receptor potential channel interacting",  
+39,D00512,Phenytoin (JP17/USP/INN),0.92
+  ,hsa8912, calcium voltage-gated channel subunit alpha1 H,  
+40,D00549,Propofol (JAN/USAN/INN),0.919
+  ,hsa2569, gamma-aminobutyric acid type A receptor rho1 subunit,  
+41,D00512,Phenytoin (JP17/USP/INN),0.919
+  ,hsa5310," polycystin 1, transient receptor potential channel interacting",  
+42,D01243,Prilocaine hydrochloride (USP),0.917
+  ,hsa6331, sodium voltage-gated channel alpha subunit 5,  
+43,D00332,Gabapentin (JAN/USAN/INN),0.917
+  ,hsa27092, calcium voltage-gated channel auxiliary subunit gamma 4,  
+44,D00538,Zonisamide (JAN/USAN/INN),0.916
+  ,hsa6328, sodium voltage-gated channel alpha subunit 3,  
+45,D01295,Cinnarizine (JAN/USAN/INN),0.916
+  ,hsa774, calcium voltage-gated channel subunit alpha1 B,  
+46,D00512,Phenytoin (JP17/USP/INN),0.914
+  ,hsa3710," inositol 1,4,5-trisphosphate receptor type 3",  
+47,D00512,Phenytoin (JP17/USP/INN),0.914
+  ,hsa782, calcium voltage-gated channel auxiliary subunit beta 1,  
+48,D02098,Proparacaine hydrochloride (USP),0.913
+  ,hsa6329, sodium voltage-gated channel alpha subunit 4,  
+49,D00332,Gabapentin (JAN/USAN/INN),0.911
+  ,hsa784, calcium voltage-gated channel auxiliary subunit beta 3,  
+50,D00293,Diazepam (JP17/USP/INN),0.91
+  ,hsa2559, gamma-aminobutyric acid type A receptor alpha6 subunit,  

@@ -1,0 +1,101 @@
+Rank,Pair,Annotation,Score
+1,D01132,Tazarotene (JAN/USAN/INN),0.738
+  ,hsa5915, retinoic acid receptor beta,  
+2,D00316,Etretinate (JAN/USAN/INN),0.736
+  ,hsa5916, retinoic acid receptor gamma,  
+3,D00094,Tretinoin (JAN/USP/INN),0.733
+  ,hsa5914, retinoic acid receptor alpha,  
+4,D00094,Tretinoin (JAN/USP/INN),0.66
+  ,hsa5916, retinoic acid receptor gamma,  
+5,D00094,Tretinoin (JAN/USP/INN),0.657
+  ,hsa5915, retinoic acid receptor beta,  
+6,D00187,Ergocalciferol (JP17/USP),0.647
+  ,hsa7421, vitamin D receptor,  
+7,D00316,Etretinate (JAN/USAN/INN),0.632
+  ,hsa6257, retinoid X receptor beta,  
+8,D00316,Etretinate (JAN/USAN/INN),0.607
+  ,hsa6256, retinoid X receptor alpha,  
+9,D00316,Etretinate (JAN/USAN/INN),0.6
+  ,hsa5915, retinoic acid receptor beta,  
+10,D01132,Tazarotene (JAN/USAN/INN),0.598
+  ,hsa5916, retinoic acid receptor gamma,  
+11,D00954,Norgestrel (JP17/USP/INN),0.598
+  ,hsa5241, progesterone receptor,  
+12,D00105,Estradiol (JAN/USP/INN),0.597
+  ,hsa2099, estrogen receptor 1,  
+13,D00094,Tretinoin (JAN/USP/INN),0.578
+  ,hsa6257, retinoid X receptor beta,  
+14,D00930,Paricalcitol (JAN/USAN/INN),0.575
+  ,hsa7421, vitamin D receptor,  
+15,D00094,Tretinoin (JAN/USP/INN),0.571
+  ,hsa6256, retinoid X receptor alpha,  
+16,D00577,Diethylstilbestrol (USP/INN),0.562
+  ,hsa2104, estrogen related receptor gamma,  
+17,D00129,Calcitriol (JAN/USP/INN),0.556
+  ,hsa7421, vitamin D receptor,  
+18,D00299,Dihydrotachysterol (JAN/USP/INN),0.554
+  ,hsa7421, vitamin D receptor,  
+19,D01132,Tazarotene (JAN/USAN/INN),0.548
+  ,hsa6256, retinoid X receptor alpha,  
+20,D00316,Etretinate (JAN/USAN/INN),0.546
+  ,hsa5914, retinoic acid receptor alpha,  
+21,D00188,Cholecalciferol (JP17/USP),0.54
+  ,hsa7421, vitamin D receptor,  
+22,D00950,Levonorgestrel (JAN/USP/INN),0.536
+  ,hsa5241, progesterone receptor,  
+23,D00577,Diethylstilbestrol (USP/INN),0.523
+  ,hsa2099, estrogen receptor 1,  
+24,D01132,Tazarotene (JAN/USAN/INN),0.504
+  ,hsa6257, retinoid X receptor beta,  
+25,D00690,Mometasone furoate (JAN/USP),0.482
+  ,hsa2908, nuclear receptor subfamily 3 group C member 1,  
+26,D00182,Norethindrone (USP),0.48
+  ,hsa5241, progesterone receptor,  
+27,D00182,Norethindrone (USP),0.476
+  ,hsa2099, estrogen receptor 1,  
+28,D00577,Diethylstilbestrol (USP/INN),0.474
+  ,hsa2103, estrogen related receptor beta,  
+29,D00094,Tretinoin (JAN/USP/INN),0.469
+  ,hsa6258, retinoid X receptor gamma,  
+30,D00075,Testosterone (JAN/USP),0.46
+  ,hsa5241, progesterone receptor,  
+31,D01132,Tazarotene (JAN/USAN/INN),0.418
+  ,hsa6097, RAR related orphan receptor C,  
+32,D02367,Desogestrel (USAN/INN),0.409
+  ,hsa5241, progesterone receptor,  
+33,D00954,Norgestrel (JP17/USP/INN),0.409
+  ,hsa2099, estrogen receptor 1,  
+34,D00577,Diethylstilbestrol (USP/INN),0.404
+  ,hsa2101, estrogen related receptor alpha,  
+35,D00554,Ethinyl estradiol (USP),0.402
+  ,hsa2099, estrogen receptor 1,  
+36,D00585,Mifepristone (JAN/USAN/INN),0.401
+  ,hsa2099, estrogen receptor 1,  
+37,D00246,Budesonide (JAN/USAN/INN),0.398
+  ,hsa2908, nuclear receptor subfamily 3 group C member 1,  
+38,D01294,Ethynodiol diacetate (JAN/USP),0.388
+  ,hsa5241, progesterone receptor,  
+39,D00067,Estrone (JAN/USP/INN),0.387
+  ,hsa2099, estrogen receptor 1,  
+40,D01161,Fulvestrant (JAN/USAN/INN),0.386
+  ,hsa2099, estrogen receptor 1,  
+41,D02367,Desogestrel (USAN/INN),0.384
+  ,hsa2099, estrogen receptor 1,  
+42,D04066,Estramustine (USAN/INN),0.383
+  ,hsa2099, estrogen receptor 1,  
+43,D00443,Spironolactone (JP17/USP/INN),0.379
+  ,hsa5241, progesterone receptor,  
+44,D00951,Medroxyprogesterone acetate (JP17/USP),0.378
+  ,hsa5241, progesterone receptor,  
+45,D00312,Estrone sodium sulfate,0.378
+  ,hsa2099, estrogen receptor 1,  
+46,D00327,Fluoxymesterone (JP17/USP/INN),0.373
+  ,hsa5241, progesterone receptor,  
+47,D00348,Isotretinoin (USP),0.371
+  ,hsa5915, retinoic acid receptor beta,  
+48,D00088,Hydrocortisone (JP17/USP/INN),0.368
+  ,hsa5241, progesterone receptor,  
+49,D00950,Levonorgestrel (JAN/USP/INN),0.366
+  ,hsa2099, estrogen receptor 1,  
+50,D00075,Testosterone (JAN/USP),0.349
+  ,hsa2099, estrogen receptor 1,  
